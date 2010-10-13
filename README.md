@@ -8,7 +8,11 @@ So here it is! in it's 0.1 release - a plugin for creating iPad style editing ov
 
 ##Triggering it.
 
-Just call the .JS plugin file, and the .CSS stylesheet in the <head> section of your page:
+Just call the .JS plugin file, and the .CSS stylesheet in the `<head>` section of your page:
+	
+	<script type="text/javascript" src="js/ipadoverlays.js"></script>
+			
+	<link href="css/ipadoverlays.css" type="text/css" rel="stylesheet" />
 	
 ###Initialisation
 
