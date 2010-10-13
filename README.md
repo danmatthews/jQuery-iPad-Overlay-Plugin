@@ -35,7 +35,7 @@ Call it on the jQuery function like so:
 	content: '<textarea rows="10" cols="10" id="ipad_textarea"></textarea>'
 	
 
-});
+	});
 
 ###Options
 
