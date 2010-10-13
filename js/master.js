@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$('#trigger_overlay').click(function() {
 	
-		$.ipadoverlay({
+		$('body').ipadoverlay({
 		
 			title:'Contact Me',
 			width: '250px',
